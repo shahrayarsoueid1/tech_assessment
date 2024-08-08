@@ -4,6 +4,8 @@
 
 ## Getting Started 🚀
 
+Sdk version:'>=3.4.3 <4.0.0'
+
 This project contains 3 flavors:
 
 - development
